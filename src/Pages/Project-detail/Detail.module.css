@@ -1,0 +1,47 @@
+.wrapper {
+    padding: 50px 200px;
+}
+
+.description {
+    display: flex;
+}
+
+.content {
+    width: 40%;
+
+}
+
+.images {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.images>img {
+    width: 360px;
+    align-items: center;
+}
+
+.images_small {
+    margin-top: 16px;
+    display: flex;
+
+}
+
+.images_small img {
+    width: 80px;
+    margin-right: 12px;
+}
+
+table tr td {
+    padding: 12px 12px;
+    font-size: 14px;
+}
+
+table tr td:first-child {
+    color: #4F4F4F;
+    min-width: 220px;
+    background-color: #EFEFEF;
+}

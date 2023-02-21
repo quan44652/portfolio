@@ -1,0 +1,40 @@
+.wrapper {
+    padding: 50px 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact_caption {
+    width: 500px;
+}
+
+.contact_caption h1 {
+    font-size: 44px;
+    font-weight: 400;
+}
+
+.contact_caption p {
+    margin-top: 50px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #10285D;
+}
+
+.contact_form {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact_form input {
+    width: 100%;
+    padding: 20px 0;
+    font-size: 16px;
+}
+
+.contact_form .btn {
+    margin-top: 50px;
+    background-color: #EC5B53;
+    padding: 20px 0;
+    color: #fff;
+}

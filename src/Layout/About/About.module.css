@@ -1,0 +1,52 @@
+.wrapper {
+    padding: 200px 200px 100px;
+    display: flex;
+    overflow: hidden;
+}
+
+.about_caption {
+    width: 500px;
+}
+
+.about_caption2 {
+    margin-left: 150px;
+}
+
+.about_caption h3 {
+    font-size: 32px;
+    word-spacing: 1.2px;
+    font-weight: 500;
+}
+
+.about_caption ul {
+    margin-top: 32px;
+    list-style: square    ;
+    margin-left: 12px;
+    
+}
+
+.about_caption ul li {
+    margin-bottom: 16px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.about_caption2 h3 {
+    font-size: 40px;
+    word-spacing: 1.2px;
+    font-weight: 400;
+}
+
+.about_caption2 h6 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #464D65;
+    margin: 32px 0;
+}
+
+.about_caption2 a {
+    font-size: 32px;
+    text-decoration: underline;
+    font-weight: 600;
+    color: #464D65;
+}

@@ -1,0 +1,21 @@
+.wrapper {
+    padding: 50px 200px;
+    background-color: #080827;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper span {
+    font-size: 32px;
+    color: #848493;
+}
+
+.wrapper .icon {
+    color: #848493;
+    margin-left: 50px;
+}
+
+.wrapper .icon i {
+    font-size: 24px;
+    padding: 0 12px ;
+}

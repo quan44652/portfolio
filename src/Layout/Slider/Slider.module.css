@@ -1,0 +1,58 @@
+.wrapper {
+    background-image: url(../../asset/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 400px;
+    padding: 200px;
+}
+
+.hero_caption {
+    width: 570px;
+}
+
+.hero_caption .hero_name {
+    font-weight: 500;
+    color: #464d65;
+}
+
+.hero_caption h1 {
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 60px;
+
+}
+
+.hero_caption p {
+    margin: 50px 0;
+    line-height: 32px;
+   font-size: 18px;
+   text-align: justify;
+}
+
+.btn_hero {
+    position: relative;
+    color: #fff;
+    overflow: hidden;
+    background-color: #ec5b53;
+}
+
+
+.btn_boder {
+    border: 1px solid #ccc;
+    background-color: transparent;
+    margin-left: 18px;
+    color: #464d65;
+}
+
+.btn {
+    font-size: 14px;
+    padding: 17px 24px;
+    font-weight: 700;
+    border-radius: 6px;
+    min-width: 170px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}

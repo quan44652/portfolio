@@ -1,0 +1,24 @@
+.wrapper {
+    height: 100px;
+    padding: 0 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar {
+        display: flex;
+        list-style: none;
+}
+
+.navbar a {
+    padding-right: 24px;
+    font-size: 18px;
+    color: #464d65;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #ec5b53;
+}
